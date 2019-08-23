@@ -6,5 +6,6 @@ description: Um Blog teste criado a partir da ferramenta Jekyll.
 github_username: tonidandel
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: minima
+#theme: jekyll-theme-time-machine
 #show_downloads: true
