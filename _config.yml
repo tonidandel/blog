@@ -9,4 +9,5 @@ markdown: kramdown
 theme: minima
 #theme: jekyll-theme-time-machine
 #show_downloads: true
-plugins: jekyll-feed
+plugins:
+  - jekyll-feed
