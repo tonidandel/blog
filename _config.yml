@@ -1,9 +1,8 @@
-title: O Telégrafo --- ... ---
-email: tonidandel@gmail.com
-author: Danny Tonidandel
+title: Blog testeemail: email@email.com
+author: autor
 description: Um Blog teste criado a partir da ferramenta Jekyll.
 #baseurl: "" # the subpath of your site, e.g. /blog
-github_username: tonidandel
+github_username: username
 # Build settings
 markdown: kramdown
 #theme: minima
