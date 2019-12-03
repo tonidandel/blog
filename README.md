@@ -1,1 +1,1 @@
-Este blog tem como objetivo servir de espaço às minhas reflexões.
+Um blog (template) simples com o tema "time-machine".
